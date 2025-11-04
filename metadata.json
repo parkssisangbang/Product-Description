@@ -1,0 +1,5 @@
+{
+  "name": "상세설명작성기",
+  "description": "An AI-powered tool to generate compelling product descriptions for Korean e-commerce sites. It extracts text from product images, crafts marketing copy in Korean and English, and allows users to provide custom translations and learning materials for context-aware content generation.",
+  "requestFramePermissions": []
+}
